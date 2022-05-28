@@ -1,0 +1,8 @@
+C:\Users\User\Downloads\B22 Ex02 MorisGateno 312401987 OriSilberman 207082215\B22 Ex02 MorisGateno 312401987 OriSilberman 207082215\Checkers\obj\Debug\Checkers.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\B22 Ex02 MorisGateno 312401987 OriSilberman 207082215\B22 Ex02 MorisGateno 312401987 OriSilberman 207082215\Checkers\obj\Debug\Checkers.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\B22 Ex02 MorisGateno 312401987 OriSilberman 207082215\B22 Ex02 MorisGateno 312401987 OriSilberman 207082215\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\B22 Ex02 MorisGateno 312401987 OriSilberman 207082215\B22 Ex02 MorisGateno 312401987 OriSilberman 207082215\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\User\Downloads\B22 Ex02 MorisGateno 312401987 OriSilberman 207082215\B22 Ex02 MorisGateno 312401987 OriSilberman 207082215\Checkers\bin\Debug\Checkers.exe
+C:\Users\User\Downloads\B22 Ex02 MorisGateno 312401987 OriSilberman 207082215\B22 Ex02 MorisGateno 312401987 OriSilberman 207082215\Checkers\bin\Debug\Checkers.pdb
+C:\Users\User\Downloads\B22 Ex02 MorisGateno 312401987 OriSilberman 207082215\B22 Ex02 MorisGateno 312401987 OriSilberman 207082215\Checkers\obj\Debug\Checkers.exe
+C:\Users\User\Downloads\B22 Ex02 MorisGateno 312401987 OriSilberman 207082215\B22 Ex02 MorisGateno 312401987 OriSilberman 207082215\Checkers\obj\Debug\Checkers.pdb
